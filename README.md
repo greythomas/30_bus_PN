@@ -1,2 +1,2 @@
-# 30_bus_PN
+# parameters for the TN and PN
 not ready
